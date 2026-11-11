@@ -1,0 +1,9 @@
+Package: com.qn.aodlowpower
+Name: AODLowPower
+Depends: mobilesubstrate, firmware (>= 16.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Keep the Always-On Display active while Low Power Mode is on
+Maintainer: Qn <qnblackcat@gmail.com>
+Author: Qn <qnblackcat@gmail.com>
+Section: Tweaks
